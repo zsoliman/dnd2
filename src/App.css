@@ -44,3 +44,14 @@
   height: auto;
   display: block;
 }
+
+.char-select-container {
+  display: flex;
+}
+
+.char-name,
+.class-select {
+  text-align: center;
+  font-size: 1.5em;
+
+}
