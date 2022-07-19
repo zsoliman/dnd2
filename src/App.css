@@ -38,3 +38,9 @@
   cursor: pointer;
   color: orange;
 }
+
+.selected-char-img {
+  width: 400px;
+  height: auto;
+  display: block;
+}
