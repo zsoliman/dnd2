@@ -26,7 +26,7 @@ const CreateACharacter = () => {
 
     return (
         <div>
-            <h1>Create a Character</h1>
+            <h1 style={{ textAlign: 'center' }}>Create a Character</h1>
             <div className='char-select-container' >
 
                 <div>
